@@ -1,0 +1,226 @@
+
+/****************************************************PAGE STYLES ******************************************************************/
+.mainPage{
+  background: #dddde4;
+  min-height:1000px;
+  width:100%;
+}
+
+
+/**************************************************** Header Styles *****************************************************************/
+
+@media (min-width: 1601px) and (max-width: 1920px) {
+  
+  .appHeader{
+    height:100px;
+    padding-top: 18px;
+    max-width: 1080px;
+    text-align: center;
+    margin: auto;
+    
+  }
+
+  .debtProtectionEnro{
+    height:39px;
+    width:446px;
+    color:#0A223F;
+    font-family:Montserret;
+    font-size:32px;
+    line-height: 39px;
+  }
+
+  .logoStyle{
+    height: 53px !important;
+    width:206px;
+  }
+  
+}
+
+@media (min-width: 1025px) and (max-width: 1600px) {
+  
+  
+  .appHeader{
+    height:100px;
+    padding-top: 18px;
+    margin-left:24px;
+    margin-right:24px;
+  }
+
+  .debtProtectionEnro{
+    height:39px;
+    width:446px;
+    color:#0A223F;
+    font-family:Montserret;
+    font-size:32px;
+    line-height: 39px;
+  }
+  .logoStyle{
+    height: 53px !important;
+    width:206px;
+  }
+  
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  
+  .appHeader{
+    height:100px;
+    padding-top: 18px;
+    margin-left:24px;
+    margin-right:24px;
+    
+  }
+
+  .debtProtectionEnro{
+    height:39px;
+    width:446px;
+    color:#0A223F;
+    font-family:Montserret;
+    font-size:24px;
+    line-height: 32px;
+  }
+
+  .logoStyle{
+    height: 53px !important;
+    width:206px;
+  }
+  
+}
+
+@media (min-width: 376px) and (max-width: 768px) {
+  
+  .appHeader{
+    height:100px;
+    padding-top: 18px;
+    margin-left:24px;
+    margin-right:24px;
+    
+  }
+
+  .debtProtectionEnro{
+    height:39px;
+    width:446px;
+    color:#0A223F;
+    font-family:Montserret;
+    font-size:24px;
+    line-height: 32px;
+    word-wrap: break-word;
+  }
+
+  .logoStyle{
+    height: 53px !important;
+    width:206px;
+  }
+  
+}
+
+@media (max-width: 375px) {
+  
+  .appHeader{
+    height:100px;
+    padding-top: 18px;
+    max-width: 1080px;
+  }
+
+  .logoStyle{
+    height: 36px ;
+    width:140px;
+  }
+  
+  .lineLogo {
+    border-right: none;
+    height: 60px;
+    box-sizing: border-box;
+    width:2px;
+  
+  }
+  .headerTitle{
+    visibility: hidden;
+  }
+
+  .lockIcon{
+    visibility: hidden;
+  }
+
+  .lineLogo {
+    border-right: none;
+    height: 60px;
+    width:0px;
+  }
+}
+
+.headerContainer{
+  background: #fff;
+  width:100%;
+  padding-top: 15px;
+  padding-top: 18px;
+  margin-right: 0px;
+  margin-left: 0px; 
+}
+
+.phoneIconStyle{
+  height: 40px ;
+  width: 40px ;
+}
+
+.lockIconStyle{
+  height: 30px !important;
+}
+
+.lineLogo {
+  border-right: 1px solid #C6CCD4;
+  height: 60px;
+  box-sizing: border-box;
+  width:2px;
+
+}
+.debtProtectionEnro{
+  height:39px;
+  width:446px;
+  color:#0A223F;
+  font-family:Montserret;
+  font-size:32px;
+  line-height: 39px;
+}
+.secure{
+  height:12px;
+  width:42px;
+  color:rgba(0,0,0,0.3);
+  font-family:Montserret;
+  font-size:10px;
+  font-weight: 500px;
+  line-height: 39px;
+  text-align: center;
+}
+.secureIcon{
+  height:16px;
+  width:16px;
+  text-align: center;
+}
+.debtProtectionText{
+  font-weight: bold;
+  color: rgb(9, 138, 171);
+}
+
+/*******************************************************Disclosures *****************************************************************/
+
+.disclosurerContainer{
+  background: #fff;
+  width:100%;
+  padding-top: 15px;
+  padding-top: 18px;
+  margin-right: 0px;
+  margin-left: 0px; 
+}
+
+.disclosureBody{
+  max-width: 1080px;
+  margin: auto;
+}
+.disclosuresDiv{
+  max-height:200px;
+  border:1px solid #C6CCD4;
+  border-radius: 3px;
+  overflow-y: auto;
+  font-family:Montserret-Regular;
+}

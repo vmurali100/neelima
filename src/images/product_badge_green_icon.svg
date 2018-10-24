@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="SSIP-v02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PFOL_Accounts_DP-enrolled" transform="translate(-75.000000, -546.000000)">
+            <g id="Group-5" transform="translate(75.000000, 546.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g mask="url(#mask-2)" fill="#558B2F" stroke="#558B2F">
+                    <g transform="translate(1.250000, 0.250000)">
+                        <path d="M0.5,2.3291 L0.5,9.0761 C0.5,11.3261 4.1695,13.6866 6.75,14.4886 C9.3305,13.6866 13,11.3261 13,9.0761 L13,2.3291 L6.75,0.5101 L0.5,2.3291 Z M6.75,15.0001 C6.7255,15.0001 6.701,14.9961 6.6775,14.9891 C4.349,14.2866 0,11.8306 0,9.0761 L0,2.1416 C0,2.0301 0.073,1.9326 0.18,1.9016 L6.68,0.0101 C6.726,-0.0034 6.774,-0.0034 6.82,0.0101 L13.32,1.9016 C13.427,1.9326 13.5,2.0301 13.5,2.1416 L13.5,9.0761 C13.5,11.8306 9.151,14.2866 6.8225,14.9891 C6.799,14.9961 6.7745,15.0001 6.75,15.0001 Z" id="Fill-3"></path>
+                        <path d="M5.75,10 C5.686,10 5.622,9.9755 5.573,9.927 L3.073,7.427 C2.9755,7.329 2.9755,7.171 3.073,7.073 C3.171,6.9755 3.329,6.9755 3.427,7.073 L5.75,9.3965 L10.073,5.073 C10.171,4.9755 10.329,4.9755 10.427,5.073 C10.5245,5.171 10.5245,5.329 10.427,5.427 L5.927,9.927 C5.878,9.9755 5.814,10 5.75,10" id="Fill-1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

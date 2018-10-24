@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="11px" viewBox="0 0 64 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>minus_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="5.-Icons-&amp;-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-463.000000, -1488.000000)">
+            <g id="Utility-Icons" transform="translate(165.000000, 485.000000)">
+                <g id="Group-Copy-14" transform="translate(233.000000, 936.000000)">
+                    <g id="minus_icon" transform="translate(65.000000, 40.000000)">
+                        <g id="Combined-Shape">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <path d="M5.33333333,27 C2.38781467,27 0,29.4624339 0,32.5 C0,35.5375661 2.38781467,38 5.33333333,38 L58.6666667,38 C61.6121853,38 64,35.5375661 64,32.5 C64,29.4624339 61.6121853,27 58.6666667,27 L5.33333333,27 Z" fill="#282828" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

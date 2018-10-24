@@ -1,0 +1,242 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  min-height: 1000px;
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  min-height: 1000px;
+}
+
+.appBody{
+  background: #1d2124;
+  min-height: 1000px;
+}
+/***************************************************************App Header Style ************************************/
+
+.appFooter{
+  background:#64656f;
+  color: #fff;
+  min-height:100px;
+  text-align: center;
+}
+
+.appFooterCopyright{
+  background:#4c4d58;
+  color: #fff;
+  min-height: 50px;
+  text-align: center;
+}
+
+
+.pageBody{
+  background:#dddde4;
+  min-height: 900px;
+  text-align: center;
+}
+.container{
+  min-height: 900px;
+}
+
+.panel-heading {
+  padding: 0;
+	border:0;
+}
+.panel-title>a, .panel-title>a:active{
+	display:block;
+	padding:15px;
+  color:#555;
+  font-size:16px;
+  font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:1px;
+  word-spacing:3px;
+	text-decoration:none;
+}
+.panel-heading  a:before {
+   font-family: 'Glyphicons Halflings';
+   content: "\e114";
+   float: right;
+   transition: all 0.5s;
+}
+.panel-heading.active a:before {
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	transform: rotate(180deg);
+} 
+
+.chooseAPlan{
+  width: 95%;
+  background: #fff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 80%;
+  margin-top:3%;
+}
+
+.planAccordian{
+  width: 95%;
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/****************************************************Disclosures ***************************************************************************/
+
+.disclosuresText{
+  font-size: 13px;
+  text-align: left;
+  color: #5b5b61;
+}
+.disclosuresDiv{
+  width: 95%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 1px;
+  padding: 8px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-color:#dddde4; 
+}
+.disclosuresHeading{
+  font-size: 15px;
+  text-align: left;
+  font-weight: bold;
+}
+
+/***********************************************************Debt Plan *****************************************************************************/
+.planPanel{
+  padding: 8px;
+  margin-bottom: 18px;
+  background:#dddde4;
+}
+.panelTitle{
+  font-size: 13px;
+  text-align: left;
+  color: #5b5b61;
+  padding-bottom: 15px;
+}
+
+.reviewAndSign{
+  width: 95%;
+  background:#dddde4;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.dpComplete{
+  /*width: 95%;*/
+  /*background-image: url(https://wtop.com/wp-content/uploads/2017/05/PenFed_May-Blog_1200x628-727x485.jpg);*/
+  background-image: url("family.jpg");
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 900px;
+}
+.dpCompleteHeader{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  color:#fff;
+  
+}
+
+.debtProtectionr{
+  width: 95%;
+  background:#fff;
+  min-height: 100px;
+  margin-right: 16px;
+}
+
+.whatsNext{
+  width: 95%;
+  background:#fff;
+  min-height: 300px;
+}
+.printPage{
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  color:#fff;
+}
+
+/****************************************** ELIGIBILITY CHECK ****************************************************************/
+.eligibilityCheckTitle{
+  font-size: 18px;
+  text-align: left;
+  font-weight: bold;
+  
+}
+.eligibilityQuestionsText{
+  font-size: 16px;
+  text-align: left;
+  color: #5b5b61;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.enrollSignButton{
+  text-align: left;
+}
+
+.yesNoRadioButton{
+  text-align: left;
+}
+
+
+
+/****************************************** DB COMPLETE ****************************************************************/
+.returnHomeButton {
+  text-align: center;
+  padding-top: 33px;
+}
+
+/****************************************** COMMON BUTTON ****************************************************************/
+.penfedRectButton {
+  background-color: #108815; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/**************************************************** Header Styles *****************************************************************/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .appHeader{
+    background: #fff;
+    height:100px;
+    padding-top: 18px;
+    width:100%;
+  }
+}
+.logoStyle{
+  height: 50px !important;
+  padding-left: 50px;
+}
+
+.phoneIconStyle{
+  height: 45px !important;
+}
+
+.lockIconStyle{
+  height: 30px !important;
+}
+
+.appHeader{
+  background: #fff;
+  min-height:100px;
+  padding-top: 18px;
+}

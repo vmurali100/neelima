@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="64px" viewBox="0 0 48 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>lock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="5.-Icons-&amp;-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-472.000000, -1929.000000)">
+            <g id="Utility-Icons" transform="translate(165.000000, 485.000000)">
+                <g id="Group-Copy-94" transform="translate(234.000000, 1404.000000)">
+                    <g id="lock" transform="translate(65.000000, 40.000000)">
+                        <g>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="locked58" mask="url(#mask-2)" fill="#000000" fill-rule="nonzero">
+                                <g transform="translate(8.000000, 0.000000)" id="Shape">
+                                    <path d="M42,21.3333333 L39,21.3333333 L39,15.2380952 C39,6.7047619 32.4,0 24,0 C15.6,0 9,6.7047619 9,15.2380952 L9,21.3333333 L6,21.3333333 C2.7,21.3333333 0,24.0761905 0,27.4285714 L0,57.9047619 C0,61.2571429 2.7,64 6,64 L42,64 C45.3,64 48,61.2571429 48,57.9047619 L48,27.4285714 C48,24.0761905 45.3,21.3333333 42,21.3333333 Z M24.0263021,6.45572917 C29.1263021,6.45572917 33.0884766,10.2672898 33.0884766,15.4482422 L33.0988932,21.3428385 L14.9447266,21.3261068 L14.9550781,15.530013 C14.9550781,10.3490606 18.9263021,6.45572917 24.0263021,6.45572917 Z M42,58.4761905 L6,58.4761905 L6,28 L42,28 L42,58.4761905 Z M24,48.1904762 C27.3,48.1904762 30,45.447619 30,42.0952381 C30,38.7428571 27.3,36 24,36 C20.7,36 18,38.7428571 18,42.0952381 C18,45.447619 20.7,48.1904762 24,48.1904762 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
