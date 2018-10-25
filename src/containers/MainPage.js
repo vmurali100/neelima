@@ -51,9 +51,7 @@ const AccordionContent1 = () => (
             <div className="col-md-7">
                 <h5>Check If you're eligible</h5>
                 <div className="checkQuestion">
-                     <p className="question">  sit amet, consectetur adipiscing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+                     <p className="question">  text changed by neelima</p>
                     <div className="cbox">
                         <input type="radio" className="radioBtn"/>
                     </div>
