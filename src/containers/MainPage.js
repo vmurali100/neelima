@@ -51,7 +51,7 @@ const AccordionContent1 = () => (
             <div className="col-md-7">
                 <h5>Check If you're eligible</h5>
                 <div className="checkQuestion">
-                     <p className="question">  text changed by neelima</p>
+                     <p className="question">  text changed by Murali</p>
                     <div className="cbox">
                         <input type="radio" className="radioBtn"/>
                     </div>
