@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>greencheck_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="5.-Icons-&amp;-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-697.000000, -525.000000)">
+            <g id="Utility-Icons" transform="translate(165.000000, 485.000000)">
+                <g id="Group-Copy-2" transform="translate(467.000000, 0.000000)">
+                    <g id="greencheck_icon" transform="translate(65.000000, 40.000000)">
+                        <g id="green-check">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g mask="url(#mask-2)">
+                                <circle id="Oval" fill="#558B2F" cx="32" cy="32" r="32"></circle>
+                                <path d="M21.2252017,30.8922642 C19.9752462,29.6428643 17.9491183,29.6433146 16.6997184,30.8932701 C15.4503184,32.1432255 15.4507688,34.1693534 16.7007243,35.4187534 L25.3055762,44.019781 C26.5551388,45.2687882 28.5804911,45.2687882 29.8300537,44.019781 L46.7052012,27.1521335 C47.9551567,25.9027335 47.955607,23.8766057 46.7062071,22.6266502 C45.4568072,21.3766947 43.4306793,21.3762444 42.1807238,22.6256443 L27.567815,37.2320586 L21.2252017,30.8922642 Z" id="Path-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

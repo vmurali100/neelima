@@ -44,6 +44,7 @@
     padding-top: 18px;
     margin-left:24px;
     margin-right:24px;
+    width: 1080px;
   }
 
   .debtProtectionEnro{
@@ -62,7 +63,9 @@
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
-  
+  .mainArea{
+    width: 100%;
+  }
   .appHeader{
     height:100px;
     padding-top: 18px;
@@ -88,7 +91,9 @@
 }
 
 @media (min-width: 376px) and (max-width: 768px) {
-  
+  .mainArea{
+    width: 100%;
+  }
   .appHeader{
     height:100px;
     padding-top: 18px;
@@ -115,12 +120,16 @@
 }
 
 @media (max-width: 375px) {
-  
+ 
   .appHeader{
-    height:100px;
     padding-top: 18px;
     max-width: 1080px;
+    margin-bottom: 20px !important;
   }
+  .row.appHeader {
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
 
   .logoStyle{
     height: 36px ;
@@ -147,6 +156,7 @@
     height: 60px;
     width:0px;
   }
+
 }
 
 .headerContainer{
@@ -208,19 +218,77 @@
   background: #fff;
   width:100%;
   padding-top: 15px;
-  padding-top: 18px;
+  /* padding-top: 18px; */
+  margin-top: 300px;
   margin-right: 0px;
   margin-left: 0px; 
 }
 
-.disclosureBody{
-  max-width: 1080px;
-  margin: auto;
+.disclosureBody {
+  /* max-width: 1080px; */
+  border: 1px solid #C6CCD4;
+  margin: 2px;
+  padding: 10px;
 }
 .disclosuresDiv{
-  max-height:200px;
-  border:1px solid #C6CCD4;
   border-radius: 3px;
   overflow-y: auto;
   font-family:Montserret-Regular;
+}
+.h6, h6 {
+  font-size: 0.9em;
+}
+.privacypolicyBody {
+  font-size: 0.8em;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 450px;
+  max-width: 1080px;
+}
+.row.appFooter {
+  margin: 0 auto;
+  background: #59606E;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: white;
+  font-size: 0.6em;
+  padding-left: 30px;
+  margin-top: 600px;
+}
+.row.appFooterCopyright {
+  margin: 0 auto;
+  background: #384149;
+  text-align: center;
+  color: white;
+  font-size: 0.6em;
+  padding-top: 10px;
+}
+.row.appFooterCopyright label {
+  font-weight: normal;
+}
+.footerLeftText {
+  width: 50%;
+  float: left;
+  margin-top: 20px;
+}
+.privacypolicyBody {
+ 
+  width: 96%;
+}
+.footerContent {
+  width: 1080px;
+  margin: 0 auto;
+}
+@media (min-width: 768px) and (max-width: 1080px) {
+  
+    .mainArea {
+     max-width: 1080px !important;
+  }
+  
+}
+.cbox p {
+  float: right;
+  margin-right: 13px;
+  margin-top: 3px;
+  margin-bottom: 0;
 }

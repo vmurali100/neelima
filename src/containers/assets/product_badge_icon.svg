@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="60px" viewBox="0 0 54 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="5.-Icons-&amp;-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-702.000000, -6090.000000)">
+            <g id="product-icons" transform="translate(165.000000, 2539.000000)">
+                <g id="Group-Copy-95" transform="translate(467.000000, 3510.000000)">
+                    <g id="Group-5" transform="translate(65.000000, 40.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g mask="url(#mask-2)" fill="#000000">
+                            <g transform="translate(5.000000, 1.000000)">
+                                <path d="M2,9.3164 L2,36.3044 C2,45.3044 16.678,54.7464 27,57.9544 C37.322,54.7464 52,45.3044 52,36.3044 L52,9.3164 L27,2.0404 L2,9.3164 Z M27,60.0004 C26.902,60.0004 26.804,59.9844 26.71,59.9564 C17.396,57.1464 0,47.3224 0,36.3044 L0,8.5664 C0,8.1204 0.292,7.7304 0.72,7.6064 L26.72,0.0404 C26.904,-0.0136 27.096,-0.0136 27.28,0.0404 L53.28,7.6064 C53.708,7.7304 54,8.1204 54,8.5664 L54,36.3044 C54,47.3224 36.604,57.1464 27.29,59.9564 C27.196,59.9844 27.098,60.0004 27,60.0004 Z" id="Fill-3"></path>
+                                <path d="M23,40 C22.744,40 22.488,39.902 22.292,39.708 L12.292,29.708 C11.902,29.316 11.902,28.684 12.292,28.292 C12.684,27.902 13.316,27.902 13.708,28.292 L23,37.586 L40.292,20.292 C40.684,19.902 41.316,19.902 41.708,20.292 C42.098,20.684 42.098,21.316 41.708,21.708 L23.708,39.708 C23.512,39.902 23.256,40 23,40" id="Fill-1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

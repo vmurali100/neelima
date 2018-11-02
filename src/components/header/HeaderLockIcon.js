@@ -15,7 +15,7 @@ class HeaderLockIcon extends Component {
                 <div className= "col-lg-1 col-md-1 col-sm-1 col-xs-0 lockIcon">
                    
                     <div className="row">
-                        <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12">   
+                        <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12 secureIcon">   
                             <img src={LockIcon}  className= "secureIcon"/>
                         </div>
                     </div>

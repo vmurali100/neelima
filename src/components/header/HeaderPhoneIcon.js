@@ -9,7 +9,7 @@ class HeaderPhoneIcon extends Component {
 
     render(){
         return (
-                <div className= "col-lg-1 col-md-1 col-sm-1 col-xs-3">
+                <div className= "col-lg-1 col-md-1 col-sm-1 col-xs-3 phoneIcon">
                     <img src={PhoneIcon}  className= "phoneIconStyle"/>
                 </div>
         );

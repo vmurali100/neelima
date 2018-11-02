@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="60px" viewBox="0 0 54 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="5.-Icons-&amp;-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1168.000000, -4921.000000)">
+            <g id="product-icons" transform="translate(165.000000, 2539.000000)">
+                <g id="Group-Copy-69" transform="translate(933.000000, 2340.000000)">
+                    <g id="Page-1" transform="translate(65.000000, 40.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g mask="url(#mask-2)" fill="#282828">
+                            <g transform="translate(5.000000, 2.000000)">
+                                <path d="M29,8 C28.448,8 28,7.552 28,7 L28,2 L26,2 L26,7 C26,7.552 25.552,8 25,8 C24.448,8 24,7.552 24,7 L24,1 C24,0.448 24.448,0 25,0 L29,0 C29.552,0 30,0.448 30,1 L30,7 C30,7.552 29.552,8 29,8" id="Fill-1"></path>
+                                <path d="M31,2 L23,2 C22.448,2 22,1.552 22,1 C22,0.448 22.448,0 23,0 L31,0 C31.552,0 32,0.448 32,1 C32,1.552 31.552,2 31,2" id="Fill-3"></path>
+                                <path d="M35,42 C34.744,42 34.488,41.902 34.292,41.708 L26.292,33.708 C26.106,33.52 26,33.266 26,33 L26,15 C26,14.448 26.448,14 27,14 C27.552,14 28,14.448 28,15 L28,32.586 L35.708,40.292 C36.098,40.684 36.098,41.316 35.708,41.708 C35.512,41.902 35.256,42 35,42" id="Fill-5"></path>
+                                <path d="M43,12 C42.744,12 42.488,11.902 42.292,11.708 C41.902,11.316 41.902,10.684 42.292,10.292 L46.292,6.292 C46.684,5.902 47.316,5.902 47.708,6.292 C48.098,6.684 48.098,7.316 47.708,7.708 L43.708,11.708 C43.512,11.902 43.256,12 43,12" id="Fill-7"></path>
+                                <path d="M27,8 C13.214,8 2,19.214 2,33 C2,46.786 13.214,58 27,58 C40.786,58 52,46.786 52,33 C52,19.214 40.786,8 27,8 M27,60 C12.112,60 0,47.888 0,33 C0,18.112 12.112,6 27,6 C41.888,6 54,18.112 54,33 C54,47.888 41.888,60 27,60" id="Fill-9"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

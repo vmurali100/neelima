@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>plus_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="5.-Icons-&amp;-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-230.000000, -1461.000000)">
+            <g id="Utility-Icons" transform="translate(165.000000, 485.000000)">
+                <g id="Group-Copy-10" transform="translate(0.000000, 936.000000)">
+                    <g id="plus_icon" transform="translate(65.000000, 40.000000)">
+                        <g id="Combined-Shape">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <path d="M26.6666667,37.3333333 L5.33333333,37.3333333 C2.38781467,37.3333333 0,34.9455187 0,32 C0,29.0544813 2.38781467,26.6666667 5.33333333,26.6666667 L26.6666667,26.6666667 L26.6666667,5.33333333 C26.6666667,2.38781467 29.0544813,0 32,0 C34.9455187,0 37.3333333,2.38781467 37.3333333,5.33333333 L37.3333333,26.6666667 L58.6666667,26.6666667 C61.6121853,26.6666667 64,29.0544813 64,32 C64,34.9455187 61.6121853,37.3333333 58.6666667,37.3333333 L37.3333333,37.3333333 L37.3333333,58.6666667 C37.3333333,61.6121853 34.9455187,64 32,64 C29.0544813,64 26.6666667,61.6121853 26.6666667,58.6666667 L26.6666667,37.3333333 Z" fill="#282828" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
